@@ -1,0 +1,16 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=Ethernet_Sheet2.SchDoc
+UniqueIDPath0=
+SheetNumber0=3
+DocumentName1=Input_Stage.SchDoc
+UniqueIDPath1=
+SheetNumber1=2
+DocumentName2=MCU_Sheet1.SchDoc
+UniqueIDPath2=
+SheetNumber2=1
+
+

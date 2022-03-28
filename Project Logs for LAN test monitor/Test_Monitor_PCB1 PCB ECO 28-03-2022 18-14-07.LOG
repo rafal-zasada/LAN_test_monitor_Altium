@@ -1,0 +1,21 @@
+Change Component Comment : Designator=C15 Old Comment=100nF New Comment=10nF
+Added Component: Designator=C70(Cap_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C71(Cap_0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C70-1
+Added Pin To Net: NetName=REF_2.048V Pin=C70-2
+Added Pin To Net: NetName=REF_2.048V Pin=C70-2
+Added Pin To Net: NetName=GND Pin=C71-1
+Added Pin To Net: NetName=NetL1_2 Pin=C71-2
+Added Pin To Net: NetName=NetL1_2 Pin=C71-2
+Change Net Name : Old Net Name=NetL1_2 New Net Name=NetC71_2
+Added Member To Class: ClassName=MCU_Sheet1 Member=Component C70 1uF
+Added Member To Class: ClassName=MCU_Sheet1 Member=Component C71 100nF
+Added Room: Name=Ethernet_Sheet2
+Added Room: Name=Input_Stage
+Added Room: Name=MCU_Sheet1
+Added Rule: Name=Schematic Matched Net Lengths_8
+Added Rule: Name=Schematic Matched Net Lengths_9
+Added Rule: Name=Schematic Matched Net Lengths_10
+Added Rule: Name=Schematic Matched Net Lengths_11

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=-5V Pin=C24-1
+Removed Pin From Net: NetName=5V Pin=C24-2
+Removed Pin From Net: NetName=5V Pin=C24-2
+Removed Pin From Net: NetName=-5V Pin=C72-1
+Removed Pin From Net: NetName=5V Pin=C72-2
+Removed Pin From Net: NetName=5V Pin=C72-2
+Removed Pin From Net: NetName=-5V Pin=C73-1
+Removed Pin From Net: NetName=5V Pin=C73-2
+Removed Pin From Net: NetName=5V Pin=C73-2
+Removed Pin From Net: NetName=-5V Pin=C74-1
+Removed Pin From Net: NetName=-5V Pin=C75-1
+Removed Pin From Net: NetName=-5V Pin=C76-1
+Removed Pin From Net: NetName=-5V Pin=C77-1
+Added Component: Designator=C78(Cap_0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=-5V Pin=C24-2
+Added Pin To Net: NetName=-5V Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C72-1
+Added Pin To Net: NetName=-5V Pin=C72-2
+Added Pin To Net: NetName=-5V Pin=C72-2
+Added Pin To Net: NetName=GND Pin=C73-1
+Added Pin To Net: NetName=-5V Pin=C73-2
+Added Pin To Net: NetName=-5V Pin=C73-2
+Added Pin To Net: NetName=GND Pin=C74-1
+Added Pin To Net: NetName=GND Pin=C75-1
+Added Pin To Net: NetName=GND Pin=C76-1
+Added Pin To Net: NetName=GND Pin=C77-1
+Added Pin To Net: NetName=GND Pin=C78-1
+Added Pin To Net: NetName=-5V Pin=C78-2
+Added Pin To Net: NetName=-5V Pin=C78-2
+Added Member To Class: ClassName=Input_Stage Member=Component C78 1uF
+Added Room: Name=Ethernet_Sheet2
+Added Room: Name=Input_Stage
+Added Room: Name=MCU_Sheet1

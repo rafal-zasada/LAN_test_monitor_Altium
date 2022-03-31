@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Electronics\STM32\Remote Monitor Altium\LAN test monitor\Test_Monitor_PCB1.PcbDoc
 Date     : 31/03/2022
-Time     : 21:58:05
+Time     : 22:41:32
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
@@ -10,12 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C11-2(47.988mm,-80.275mm) on Top Layer And Via (49.275mm,-80.3mm) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 3.3V Between Track (44.63mm,-57.105mm)(44.63mm,-54.378mm) on Top Layer And Pad C32-2(46.485mm,-54.323mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetC38_1 Between Pad CN4-13(30.33mm,-5.5mm) on Multi-Layer And Pad CN4-14(46.41mm,-5.5mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Track (67.295mm,-12.87mm)(68.68mm,-12.87mm) on Top Layer And Pad U14-14(68.7mm,-14.84mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetC38_2 Between Track (28.983mm,-17.238mm)(28.998mm,-17.223mm) on Top Layer And Track (50.1mm,-16.552mm)(50.107mm,-16.56mm) on Top Layer 
-Rule Violations :5
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -33,37 +28,17 @@ Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.083mm < 0.1mm) Between Pad C78-2(74.102mm,-81.635mm) on Top Layer And Via (73.345mm,-81.475mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.083mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.083mm < 0.1mm) Between Pad C78-2(74.102mm,-81.635mm) on Top Layer And Via (73.345mm,-81.475mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.083mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.023mm < 0.1mm) Between Pad D2-1(94.995mm,-81.255mm) on Top Layer And Via (94.25mm,-81.95mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.023mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.1mm) Between Pad R10-1(34.537mm,-29.828mm) on Top Layer And Via (34mm,-30.7mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.098mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.09mm < 0.1mm) Between Pad R38-1(82.5mm,-57.687mm) on Top Layer And Via (83.39mm,-57.755mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.09mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.092mm < 0.1mm) Between Pad R6-2(49.4mm,-38.558mm) on Top Layer And Via (49.427mm,-39.325mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.092mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.092mm < 0.1mm) Between Pad R6-2(49.4mm,-38.558mm) on Top Layer And Via (49.427mm,-39.325mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.092mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.095mm < 0.1mm) Between Pad U11-11(67.7mm,-25.605mm) on Top Layer And Via (68.82mm,-25.64mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.095mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.09mm < 0.1mm) Between Pad U11-14(67.7mm,-27.555mm) on Top Layer And Via (68.815mm,-27.565mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.09mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.092mm < 0.1mm) Between Pad U8-1(36.6mm,-32.25mm) on Top Layer And Pad U8-24(37.25mm,-31.6mm) on Top Layer [Top Solder] Mask Sliver [0.092mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.092mm < 0.1mm) Between Pad U8-12(39.75mm,-35.4mm) on Top Layer And Pad U8-13(40.4mm,-34.75mm) on Top Layer [Top Solder] Mask Sliver [0.092mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.092mm < 0.1mm) Between Pad U8-18(40.4mm,-32.25mm) on Top Layer And Pad U8-19(39.75mm,-31.6mm) on Top Layer [Top Solder] Mask Sliver [0.092mm]
    Violation between Minimum Solder Mask Sliver Constraint: (0.092mm < 0.1mm) Between Pad U8-6(36.6mm,-34.75mm) on Top Layer And Pad U8-7(37.25mm,-35.4mm) on Top Layer [Top Solder] Mask Sliver [0.092mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.091mm < 0.1mm) Between Via (30.176mm,-58.803mm) from Top Layer to Bottom Layer And Via (30.635mm,-58.43mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.091mm] / [Bottom Solder] Mask Sliver [0.091mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.084mm < 0.1mm) Between Via (42.95mm,-39.545mm) from Top Layer to Bottom Layer And Via (43.465mm,-39.27mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.084mm] / [Bottom Solder] Mask Sliver [0.084mm]
-Rule Violations :15
+Rule Violations :4
 
 Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (0.082mm < 0.15mm) Between Arc (9mm,-36.52mm) on Top Overlay And Text "D18" (8.6mm,-36.135mm) on Top Overlay Silk Text to Silk Clearance [0.082mm]
-   Violation between Silk To Silk Clearance Constraint: (0.091mm < 0.15mm) Between Text "C41" (45.588mm,-34mm) on Top Overlay And Text "R8" (44.63mm,-32.355mm) on Top Overlay Silk Text to Silk Clearance [0.091mm]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "C61" (90.42mm,-13.881mm) on Top Overlay And Text "CN8" (93.33mm,-13.704mm) on Top Overlay Silk Text to Silk Clearance [0mm]
-   Violation between Silk To Silk Clearance Constraint: (0.05mm < 0.15mm) Between Text "C75" (75.125mm,-52.17mm) on Top Overlay And Text "R39" (78.895mm,-52.38mm) on Top Overlay Silk Text to Silk Clearance [0.05mm]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "C8" (81.183mm,-6.966mm) on Top Overlay And Track (79.225mm,-7.175mm)(99.025mm,-7.175mm) on Top Overlay Silk Text to Silk Clearance [0mm]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "C9" (90.665mm,-7.105mm) on Top Overlay And Track (79.225mm,-7.175mm)(99.025mm,-7.175mm) on Top Overlay Silk Text to Silk Clearance [0mm]
-   Violation between Silk To Silk Clearance Constraint: (0.149mm < 0.15mm) Between Text "R10" (28.85mm,-30.152mm) on Top Overlay And Text "R9" (29.73mm,-28.45mm) on Top Overlay Silk Text to Silk Clearance [0.149mm]
-   Violation between Silk To Silk Clearance Constraint: (0.072mm < 0.15mm) Between Text "R63" (8.4mm,-53.4mm) on Top Overlay And Track (11.3mm,-51.35mm)(12.6mm,-52.65mm) on Top Overlay Silk Text to Silk Clearance [0.072mm]
-   Violation between Silk To Silk Clearance Constraint: (0.121mm < 0.15mm) Between Text "R7" (44.685mm,-30.68mm) on Top Overlay And Text "R8" (44.63mm,-32.355mm) on Top Overlay Silk Text to Silk Clearance [0.121mm]
-Rule Violations :9
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -76,7 +51,8 @@ Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('TX_N'))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('TXC_P'))
-Rule Violations :0
+   Violation between Matched Net Lengths: Between Net TXC_N And Net TXC_P Actual Difference against TXC_P is: 1.07mm, Tolerance : 1mm. 
+Rule Violations :1
 
 Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('RXC_N'))
    Violation between Matched Net Lengths: Between Net RXC_N And Net RXC_P Actual Difference against RXC_P is: 1.368mm, Tolerance : 1mm. 
@@ -87,7 +63,8 @@ Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('RXC_P'))
 Rule Violations :1
 
 Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('TXC_N'))
-Rule Violations :0
+   Violation between Matched Net Lengths: Between Net TXC_N And Net TXC_P Actual Difference against TXC_P is: 1.07mm, Tolerance : 1mm. 
+Rule Violations :1
 
 Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('RX_P'))
    Violation between Matched Net Lengths: Between Net RX_N And Net RX_P Actual Difference against RX_P is: 2.728mm, Tolerance : 1mm. 
@@ -100,6 +77,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 33
+Violations Detected : 10
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02

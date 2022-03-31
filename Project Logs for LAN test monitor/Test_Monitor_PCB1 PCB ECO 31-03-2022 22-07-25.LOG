@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC38_1 Pin=CN4-14
+Change Component Library : Designator=C15 Old Library= New Library=Schlib1.SchLib
+Change Component Library : Designator=C24 Old Library= New Library=Schlib1.SchLib
+Change Component Library : Designator=C70 Old Library= New Library=Schlib1.SchLib
+Change Component Library : Designator=C72 Old Library= New Library=Schlib1.SchLib
+Change Component Library : Designator=C73 Old Library= New Library=Schlib1.SchLib
+Change Component Library : Designator=C74 Old Library= New Library=Schlib1.SchLib
+Change Component Library : Designator=C75 Old Library= New Library=Schlib1.SchLib
+Change Component Library : Designator=C76 Old Library= New Library=Schlib1.SchLib
+Change Component Library : Designator=C77 Old Library= New Library=Schlib1.SchLib
+Change Component Library : Designator=C78 Old Library= New Library=Schlib1.SchLib

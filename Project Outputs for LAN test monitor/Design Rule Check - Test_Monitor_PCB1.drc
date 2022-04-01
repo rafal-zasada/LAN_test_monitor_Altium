@@ -1,9 +1,12 @@
 Protel Design System Design Rule Check
 PCB File : C:\Electronics\STM32\Remote Monitor Altium\LAN test monitor\Test_Monitor_PCB1.PcbDoc
-Date     : 31/03/2022
-Time     : 22:41:32
+Date     : 01/04/2022
+Time     : 18:01:18
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) ((IsTrack) and OnLayer('Bottom Layer')),(InPolygon)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -43,40 +46,36 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('RX_N'))
-   Violation between Matched Net Lengths: Between Net RX_N And Net RX_P Actual Difference against RX_P is: 2.728mm, Tolerance : 1mm. 
-Rule Violations :1
+Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('TXC_N'))
+Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('TX_N'))
+Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('RXC_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('RXC_N'))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('TXC_P'))
-   Violation between Matched Net Lengths: Between Net TXC_N And Net TXC_P Actual Difference against TXC_P is: 1.07mm, Tolerance : 1mm. 
-Rule Violations :1
-
-Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('RXC_N'))
-   Violation between Matched Net Lengths: Between Net RXC_N And Net RXC_P Actual Difference against RXC_P is: 1.368mm, Tolerance : 1mm. 
-Rule Violations :1
-
-Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('RXC_P'))
-   Violation between Matched Net Lengths: Between Net RXC_N And Net RXC_P Actual Difference against RXC_P is: 1.368mm, Tolerance : 1mm. 
-Rule Violations :1
-
-Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('TXC_N'))
-   Violation between Matched Net Lengths: Between Net TXC_N And Net TXC_P Actual Difference against TXC_P is: 1.07mm, Tolerance : 1mm. 
-Rule Violations :1
-
-Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('RX_P'))
-   Violation between Matched Net Lengths: Between Net RX_N And Net RX_P Actual Difference against RX_P is: 2.728mm, Tolerance : 1mm. 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('TX_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('RX_P'))
+   Violation between Matched Net Lengths: Between Net RX_N And Net RX_P Actual Difference against RX_P is: 2.349mm, Tolerance : 1mm. 
+Rule Violations :1
+
+Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('RX_N'))
+   Violation between Matched Net Lengths: Between Net RX_N And Net RX_P Actual Difference against RX_P is: 2.349mm, Tolerance : 1mm. 
+Rule Violations :1
+
+Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('TX_N'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 10
+Violations Detected : 6
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

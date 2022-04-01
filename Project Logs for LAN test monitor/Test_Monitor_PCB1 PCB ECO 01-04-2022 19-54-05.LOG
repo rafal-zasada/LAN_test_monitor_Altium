@@ -1,0 +1,12 @@
+Added Component: Designator=R75(Res_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distrib"; Value = "FARNELL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ECCN_US/EU"; Value = "n/a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_1"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf_Part_1"; Value = "MCT 0603-50 1% P5 12K1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order"; Value = "2325243"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12K1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R75-1
+Added Pin To Net: NetName=NetC38_1 Pin=R75-2
+Added Pin To Net: NetName=NetC38_1 Pin=R75-2
+Added Member To Class: ClassName=Ethernet_Sheet2 Member=Component R75 0

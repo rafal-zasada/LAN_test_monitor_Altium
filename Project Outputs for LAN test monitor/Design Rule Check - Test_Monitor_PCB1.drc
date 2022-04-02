@@ -1,12 +1,12 @@
 Protel Design System Design Rule Check
 PCB File : C:\Electronics\STM32\Remote Monitor Altium\LAN test monitor\Test_Monitor_PCB1.PcbDoc
-Date     : 01/04/2022
-Time     : 19:55:31
+Date     : 02/04/2022
+Time     : 13:17:06
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.3mm) ((IsTrack) and OnLayer('Bottom Layer')),(InPolygon)
+Processing Rule : Clearance Constraint (Gap=0.25mm) ((IsTrack)),(InPolygon)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -62,11 +62,11 @@ Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('TX_P'))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('RX_P'))
-   Violation between Matched Net Lengths: Between Net RX_N And Net RX_P Actual Difference against RX_P is: 2.349mm, Tolerance : 1mm. 
+   Violation between Matched Net Lengths: Between Net RX_N And Net RX_P Actual Difference against RX_P is: 3.39mm, Tolerance : 1mm. 
 Rule Violations :1
 
 Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('RX_N'))
-   Violation between Matched Net Lengths: Between Net RX_N And Net RX_P Actual Difference against RX_P is: 2.349mm, Tolerance : 1mm. 
+   Violation between Matched Net Lengths: Between Net RX_N And Net RX_P Actual Difference against RX_P is: 3.39mm, Tolerance : 1mm. 
 Rule Violations :1
 
 Processing Rule : Matched Lengths(Tolerance=1mm) (InNet('TX_N'))
@@ -78,4 +78,4 @@ Rule Violations :0
 
 Violations Detected : 6
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

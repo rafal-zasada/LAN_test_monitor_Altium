@@ -156,8 +156,101 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document8]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for LAN test monitor\Design Rule Check - Test_Monitor_PCB1.html
+DocumentPath=Project Outputs for LAN test monitor\Pick Place\Pick Place for Test_Monitor_PCB1.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for LAN test monitor\NC Drill\Test_Monitor_PCB1-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for LAN test monitor\NC Drill\Test_Monitor_PCB1-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for LAN test monitor\NC Drill\Test_Monitor_PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for LAN test monitor\Gerber\Test_Monitor_PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for LAN test monitor\Gerber\Test_Monitor_PCB1.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for LAN test monitor\Gerber\Test_Monitor_PCB1.G2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for LAN test monitor\Gerber\Test_Monitor_PCB1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for LAN test monitor\Gerber\Test_Monitor_PCB1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for LAN test monitor\Gerber\Test_Monitor_PCB1.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for LAN test monitor\Gerber\Test_Monitor_PCB1.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for LAN test monitor\Gerber\Test_Monitor_PCB1.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for LAN test monitor\Gerber\Test_Monitor_PCB1.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for LAN test monitor\Gerber\Test_Monitor_PCB1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for LAN test monitor\Gerber\Test_Monitor_PCB1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for LAN test monitor\Gerber\Test_Monitor_PCB1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for LAN test monitor\Gerber\Test_Monitor_PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for LAN test monitor\NC Drill\Test_Monitor_PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for LAN test monitor\Gerber\Test_Monitor_PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for LAN test monitor\Gerber\Test_Monitor_PCB1.RUL
 DItemRevisionGUID=
 
 [Configuration1]

@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=C63-1
+Removed Pin From Net: NetName=REF_2.048V Pin=C63-2
+Removed Pin From Net: NetName=REF_2.048V Pin=C63-2
+Removed Pin From Net: NetName=GND Pin=C69-1
+Removed Pin From Net: NetName=REF_2.048V Pin=C69-2
+Removed Pin From Net: NetName=REF_2.048V Pin=C69-2
+Removed Pin From Net: NetName=3.3V Pin=CN13-1
+Removed Pin From Net: NetName=3.3V Pin=CN14-1
+Removed Pin From Net: NetName=GND Pin=U10-6
+Removed Pin From Net: NetName=GND Pin=U13-6
+Removed Pin From Net: NetName=GND Pin=U16-6
+Removed Member From Class: ClassName=MCU_Sheet1 Member=C16
+Removed Member From Class: ClassName=MCU_Sheet1 Member=C17
+Removed Member From Class: ClassName=Input_Stage Member=C63
+Removed Member From Class: ClassName=Input_Stage Member=C69
+Change Component Comment : Designator=C16 Old Comment=1uF New Comment=82pF
+Change Component Comment : Designator=C15 Old Comment=10nF New Comment=82pF
+Change Component Comment : Designator=C17 Old Comment=100nF New Comment=82pF
+Change Component Comment : Designator=C56 Old Comment=100nF New Comment=82pF
+Added Pin To Net: NetName=GND Pin=CN13-1
+Added Pin To Net: NetName=GND Pin=CN14-1
+Added Pin To Net: NetName=NetR29_2 Pin=U10-6
+Added Pin To Net: NetName=NetR42_2 Pin=U13-6
+Added Pin To Net: NetName=NetR55_2 Pin=U16-6
+Added Member To Class: ClassName=Input_Stage Member=Component C16 82pF
+Added Member To Class: ClassName=Input_Stage Member=Component C17 82pF
+Added Room: Name=Ethernet_Sheet2
+Added Room: Name=Input_Stage
+Added Room: Name=MCU_Sheet1
